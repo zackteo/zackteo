@@ -1,10 +1,12 @@
-### Hey there 👋
+- 🌱 Currently learning ... Clojure and Rust
 
-- 🌱 I’m currently learning ... Clojure and Rust
+[![zackteo's github stats](https://github-readme-stats.vercel.app/api?username=zackteo&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/zackteo)
+
 
 <!--
 **zackteo/zackteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hey there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

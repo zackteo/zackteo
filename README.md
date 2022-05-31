@@ -1,4 +1,4 @@
-- 🌱 Currently learning ... Clojure and Rust
+- 🌱 Getting better at Clojure day by day 
 
 [![zackteo's github stats](https://github-readme-stats.vercel.app/api?username=zackteo&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/zackteo)
 
